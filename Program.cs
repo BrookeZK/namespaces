@@ -9,8 +9,8 @@ namespace Dealership
   {
     public static void Main()
     {
-      Car myCar = new Car();
-      Car volkswagen = new Car("1974 Volkswagen Thing", 1100, 368792);
+      Dealership.Models.Helpers.Car myCar = new Dealership.Models.Helpers.Car();
+      Dealership.Models.Car volkswagen = new Dealership.Models.Car("1974 Volkswagen Thing", 1100, 368792);
     }
   }
 }
