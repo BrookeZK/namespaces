@@ -30,4 +30,14 @@ namespace Dealership.Models
     }
   }
 
+  namespace Helpers
+  {
+
+    public class Car
+    {
+
+    }
+
+  }
+
 }

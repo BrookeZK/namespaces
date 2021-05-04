@@ -1,10 +1,1 @@
-
-namespace Dealership.Models2 
-{
-
-  public class Car
-  {
-
-  }
-
-}
+// intentionally left blank, code is in Car.cs

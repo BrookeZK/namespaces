@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 using Dealership.Models;
-using Dealership.Models2;
+using Dealership.Models.Helpers;
 
 namespace Dealership
 {
