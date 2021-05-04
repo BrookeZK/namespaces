@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
-using Dealership.Models;
-using Dealership.Models2;
+// using Dealership.Models;
+// using Dealership.Models2;
 
 namespace Dealership
 {
@@ -9,8 +9,8 @@ namespace Dealership
   {
     public static void Main()
     {
-      Car myCar = new Car();
-      Car volkswagen = new Car("1974 Volkswagen Thing", 1100, 368792);
+      Dealership.Models2.Car myCar = new Dealership.Models2.Car();
+      Dealership.Models.Car volkswagen = new Dealership.Models.Car("1974 Volkswagen Thing", 1100, 368792);
     }
   }
 }
